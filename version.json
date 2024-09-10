@@ -2,10 +2,10 @@
   "company": "Alpha Engineer Group",
   "firmware": 1,
   "modification": 0,
-  "actualizacion": 0,
+  "actualizacion": 1,
   "hardware": 1,
   "buildDate": 1725629135,
   "fileSize": 1092576,
-  "checksum": "a9f71dfdee08660467fcb6fdf3fb0508",
+  "checksum": "eb81e9fac90baf613265fc97dbc594fa",
   "filePath": "/apateti/updateFirmware/main/firmware.bin"
 }
