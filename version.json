@@ -2,48 +2,48 @@
   "company": "Alpha Engineer Group",
   "firmware": 1,
   "modification": 0,
-  "actualizacion": 4,
+  "actualizacion": 5,
   "hardware": 1,
   "buildDate": 1725629135,
-  "fileSize": 1095088,
-  "checksum": "21948025ea77a31d342bffbd28fec413",
+  "fileSize": 1099552,
+  "checksum": "7b0dc8e3176f917605d5e3b2b3a106ac",
   "filePath": "/apateti/updateFirmware/main/firmware.bin",
   "filePart": [
     {
       "nameFile": "firmware001.bin",
       "filePath": "/apateti/updateFirmware/main/firmware001.bin",
-      "checksum": "c6db794b18158d601ed8da9784a0c58c",
+      "checksum": "dae50eca5c2c55454b44e5c95f8d664c",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware002.bin",
       "filePath": "/apateti/updateFirmware/main/firmware002.bin",
-      "checksum": "89e7b9e734b06c5582704a9ae99a0534",
+      "checksum": "e71698a5c3e7b2073780de803fc38ae7",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware003.bin",
       "filePath": "/apateti/updateFirmware/main/firmware003.bin",
-      "checksum": "8418083e40669a708785ae69e0e18bfc",
+      "checksum": "b399508dd7ac73ad6e5a3db588d78fbe",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware004.bin",
       "filePath": "/apateti/updateFirmware/main/firmware004.bin",
-      "checksum": "89caa448ab84e94ca6ebe851e44d8ce9",
+      "checksum": "ef54cc6216ccea6409776ff6a97861d5",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware005.bin",
       "filePath": "/apateti/updateFirmware/main/firmware005.bin",
-      "checksum": "51fb1a966697a80ddaef0073d4cc7e3f",
+      "checksum": "bf19279c3f1408057b07447efc372c0e",
       "fileSize": 204800
     },
     {
       "nameFile": "firmware006.bin",
       "filePath": "/apateti/updateFirmware/main/firmware006.bin",
-      "checksum": "b2500732fe5ee45d11200e8edf76b2ba",
-      "fileSize": 69248
+      "checksum": "45d5582feb8703fc5feb8dfd2685a77a",
+      "fileSize": 75552
     }
   ]
 }
