@@ -6,6 +6,8 @@
   "hardware": 1,
   "buildDate": 1725629135,
   "fileSize": 1101392,
+  "PortServer": 443,
+  "HostServer": "raw.githubusercontent.com",
   "checksum": "23f9c77e923e8d5d30d7f33fe34662a0",
   "filePath": "/apateti/updateFirmware/main/firmware.bin",
   "filePart": [
