@@ -10,6 +10,7 @@
   "HostServer": "raw.githubusercontent.com",
   "checksum": "9b759142a4540777eb740822bf35df6e",
   "filePath": "/apateti/updateFirmware/main/firmware.bin",
+  "fileVers": "/apateti/updateFirmware/main/version.json",
   "filePart": [
     {
       "nameFile": "firmware001.bin",
